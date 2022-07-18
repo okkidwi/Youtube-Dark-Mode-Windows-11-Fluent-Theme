@@ -4,7 +4,7 @@
 @namespace    https://t.me/sobatambyarrrrrrr
 @description  A CSS modification for Youtube, making it look like a Windows 11 Dark Mode Fluent style. Hope you like it
 @author       sobatambyar
-@license      NO-REDISTRIBUTION
+@license      GNU General Public License v3.0
 @advanced dropdown test "Color of the background" {
 test "Dark*" <<<EOT ytd-thumbnail-overlay-resume-playback-renderer {
     width: 100%;
